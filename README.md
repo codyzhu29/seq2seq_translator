@@ -1,6 +1,6 @@
 # seq2seq_translator
 
-# Training details are included in Report_Seq2Seq.pdf (13 pages)
+# For more details about the model, training, visualization, experiments and results, please refer to  Report_Seq2Seq.pdf (13 pages)
 
 
 Model: RNN_Seq2Seq with Coverage Bahdanau Attention mechanism
